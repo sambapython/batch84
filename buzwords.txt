@@ -1,0 +1,15 @@
+# R & D
+what python could not do?
+
+Buzz words
+
+opensource
+dynamic type
+scalable
+oops
+multi threading
+scripting/programing
+easy to learn.
+backward compatiablity from 3rd version
+Automatic memorymanagement
+
